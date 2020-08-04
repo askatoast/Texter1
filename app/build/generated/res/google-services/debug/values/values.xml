@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">735390620815-e2s5d5ujk2ann1j0j35ms9q4l0ec2hra.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://texter1-80311.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">735390620815</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZ-ih2BaFWgIuUXU0M7mwiu1YVd9-1qZI</string>
+    <string name="google_app_id" translatable="false">1:735390620815:android:e589d128804a2a16b864fa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZ-ih2BaFWgIuUXU0M7mwiu1YVd9-1qZI</string>
+    <string name="google_storage_bucket" translatable="false">texter1-80311.appspot.com</string>
+    <string name="project_id" translatable="false">texter1-80311</string>
+</resources>
